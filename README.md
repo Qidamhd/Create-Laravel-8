@@ -1,4 +1,7 @@
 # Create-Laravel-8
+Jika kalian pengguna windows, buka terminal dan klik kanan untuk menjalankan run administrator pada terminal
+lalu ikuti step dibawah ini.. goodluck
+
 masuk ke halaman direktori "cd c:\xampp\htdocs"
 
 ![cd](https://github.com/user-attachments/assets/db44c855-bda0-4447-98bc-ceb44a7c0f49)
