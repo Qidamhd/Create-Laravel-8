@@ -6,3 +6,9 @@ masuk ke halaman direktori "cd c:\xampp\htdocs"
 lalu cek composer "composer -v"
 
 ![composer](https://github.com/user-attachments/assets/5ac02046-f9af-4ad6-8756-53a4cb3e81f4)
+
+create laravel 8 masukan (composer create-project --prefer-dist laravel/laravel project-name "8.*" )
+
+![ss1](https://github.com/user-attachments/assets/a89a1826-522b-49b7-acc4-3dd74f78e2ac)
+
+
