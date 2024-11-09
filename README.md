@@ -11,4 +11,6 @@ create laravel 8 masukan (composer create-project --prefer-dist laravel/laravel 
 
 ![ss1](https://github.com/user-attachments/assets/a89a1826-522b-49b7-acc4-3dd74f78e2ac)
 
+install depedency UI = composer require laravel/ui
 
+![ss3](https://github.com/user-attachments/assets/1c7802ba-62e9-4fdd-b249-3d6247e2a525)
