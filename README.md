@@ -18,3 +18,7 @@ install depedency UI = composer require laravel/ui
  install php artisan ui bootstrap
 
 ![ss4](https://github.com/user-attachments/assets/c6f73684-e9cc-4cbd-9870-471ad57cde45)
+
+lalu npm install && run dev
+
+![ss5](https://github.com/user-attachments/assets/213941fa-8930-4daf-b474-81990258007f)
