@@ -26,3 +26,7 @@ install depedency UI = composer require laravel/ui
 lalu npm install && run dev
 
 ![ss5](https://github.com/user-attachments/assets/213941fa-8930-4daf-b474-81990258007f)
+
+install auth boostrap ini =  php artisan ui bootstrap --auth
+
+![ss6](https://github.com/user-attachments/assets/dfbfbdec-8d9a-48bd-ab48-7ee273a5c2e5)
